@@ -1,0 +1,10 @@
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Tamsin Mellor ', '82355987745', 1500.0, '1996-10-11T10:30:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Margo Kiss', '01245875369', 6000.0, '1989-08-01T10:30:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Brandi Foster', '74265689552', 8500.0, '1995-03-22T10:30:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Tasnim Haley', '96533342875', 7300.0, '1993-06-05T10:30:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Daisie Becker', '74875235685', 2000.0, '1994-11-07T10:30:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Areebah Stafford', '96587421243', 8000.0, '1984-05-30T10:30:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Tyrese Haworth', '14253223657', 3500.0, '1982-09-10T10:30:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Montell Talley', '89965432268', 9500.0, '1993-04-20T10:30:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Preston Enriquez', '74785369921', 7000.0, '1991-12-15T10:30:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Daisy Rocha', '56425598713', 6500.0, '1990-02-13T10:30:00Z', 2);
